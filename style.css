@@ -22,3 +22,18 @@ background: linear-gradient(90deg, rgba(255,0,181,1) 0%, rgba(0,224,255,1) 50%, 
     font-size: 1.75rem;
 }
 
+.headingtext{
+    font-family: 'Amatic SC', cursive;  
+    color:black;
+    font-size:40px;
+}
+
+.bodytext{
+    font-family: 'Amatic SC', cursive;  
+    color:black;
+    font-size:20px;
+}
+
+.activities{
+    height:30px
+}
