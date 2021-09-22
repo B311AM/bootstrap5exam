@@ -25,7 +25,7 @@ background: linear-gradient(90deg, rgba(255,0,181,1) 0%, rgba(0,224,255,1) 50%, 
 .headingtext{
     font-family: 'Amatic SC', cursive;  
     color:black;
-    font-size:40px;
+    font-size:60px;
 }
 
 .bodytext{
@@ -34,11 +34,19 @@ background: linear-gradient(90deg, rgba(255,0,181,1) 0%, rgba(0,224,255,1) 50%, 
     font-size:20px;
 }
 
-.imagesheight{
-    height: 500px;
+.iconsize{
+    height:200px;
 }
 
-.imageswidth{
-    width:500px;
+.imagesize{
+    height:400px
+}
+
+.wideimages{
+    width:400px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #E31C79;
 }
 
